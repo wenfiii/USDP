@@ -1,4 +1,4 @@
-# ULDP Pipeline - Unlock the Stale Data Potential
+# RSDA Pipeline - Restoring Stale Data Affinity
 
 ## Architecture
 
